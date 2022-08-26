@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "772911481050",
+    "project_id": "jersey-bd2ed",
+    "storage_bucket": "jersey-bd2ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772911481050:android:5cc05caf1324843c5f65e3",
+        "android_client_info": {
+          "package_name": "com.example.jersey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772911481050-v1pfpup4290sm0frl7i8at59i7tcipt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XYUf3Lg3gx9jGswqFel2MyRmbNgbnB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772911481050-v1pfpup4290sm0frl7i8at59i7tcipt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772911481050-snkl08tc1235bh1bcda78jg30uhp610i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jersey"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772911481050:android:f488d78532333bd85f65e3",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772911481050-v1pfpup4290sm0frl7i8at59i7tcipt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XYUf3Lg3gx9jGswqFel2MyRmbNgbnB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772911481050-v1pfpup4290sm0frl7i8at59i7tcipt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772911481050-snkl08tc1235bh1bcda78jg30uhp610i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jersey"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
